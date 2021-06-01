@@ -1,0 +1,11 @@
+#Q{
+    background-color: gold;
+    border-top: 10px solid purple;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    float: none;
+}
+body{
+    background-image: "bg2.jpg";
+}
